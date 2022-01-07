@@ -4,7 +4,6 @@
 #000004_Read_In_One_Supervisor_Files.py
 #Script Purpose: Read in a Data File with 25 Repetition and create an overview plot that is saved as graphic and generate a csv export
 #of the test summary
-#Creator: Lucy Ruediger, 05 Nov 2021 
 #Last changed: 05 Nov 2021, 16:41:00
 
 # In[00]:
