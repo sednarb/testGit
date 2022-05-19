@@ -1,7 +1,5 @@
 doc
 asd
 asdf
-asdf
-sadf
 sd
 s
